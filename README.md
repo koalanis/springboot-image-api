@@ -1,7 +1,7 @@
 # spring-boot-image-api
 
 #### Technologies
-- Java 8
+- Java 17
 - MySQL
 - JPA
 - Spring Boot
